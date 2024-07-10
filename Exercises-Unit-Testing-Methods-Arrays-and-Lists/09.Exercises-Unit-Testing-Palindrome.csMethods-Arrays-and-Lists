@@ -1,0 +1,62 @@
+using NUnit.Framework;
+using System.Collections.Generic;
+namespace TestApp.UnitTests;
+
+public class PalindromeTests
+{
+    [Test]
+    public void Test_IsPalindrome_ValidPalindrome_ReturnsTrue()
+    {
+        // Arrange
+        List<string> input = new List<string>() { "Hello olleH", "Rosi isor" };
+        // Act
+        bool actualResult= Palindrome.IsPalindrome(input);
+        // Assert
+        Assert.IsTrue(actualResult);
+    }
+
+    [Test]
+    public void Test_IsPalindrome_EmptyList_ReturnsTrue()
+    {
+        // Arrange
+        List<string> words = new() { };
+
+        // Act
+        bool actualResult = Palindrome.IsPalindrome(words);
+        // Assert
+        Assert.That(actualResult, Is.True);
+    }
+
+    [Test]
+    public void Test_IsPalindrome_SingleWord_ReturnsTrue()
+    {
+        // Arrange
+        List<string> input = new List<string>() { "Hello olleH" };
+        // Act
+        bool actualResult = Palindrome.IsPalindrome(input);
+        // Assert
+        Assert.IsTrue(actualResult);
+    }
+
+    [Test]
+    public void Test_IsPalindrome_NonPalindrome_ReturnsFalse()
+    {
+        // Arrange
+        List<string> input = new List<string>() { "Hello olle" };
+        // Act
+        bool actualResult = Palindrome.IsPalindrome(input);
+        // Assert
+        Assert.IsFalse(actualResult);
+    }
+
+    [Test]
+    public void Test_IsPalindrome_MixedCasePalindrome_ReturnsTrue()
+    {
+        // Arrange
+        List<string> input = new List<string>() { "Hello olleH", "Rosi isor", "Hello olleH", "Rosi isor" };
+        // Act
+        bool actualResult = Palindrome.IsPalindrome(input);
+        // Assert
+        Assert.IsTrue(actualResult);
+    }
+}
