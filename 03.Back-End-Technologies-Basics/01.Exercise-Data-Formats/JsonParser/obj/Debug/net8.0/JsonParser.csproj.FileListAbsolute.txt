@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Rosi\BackEnd\JsonParser\JsonParser\bin\Debug\net8.0\JsonParser.exe
+C:\Users\Admin\Desktop\Rosi\BackEnd\JsonParser\JsonParser\bin\Debug\net8.0\Datasets\Books.json
+C:\Users\Admin\Desktop\Rosi\BackEnd\JsonParser\JsonParser\bin\Debug\net8.0\Datasets\Students.json
+C:\Users\Admin\Desktop\Rosi\BackEnd\JsonParser\JsonParser\bin\Debug\net8.0\JsonParser.deps.json
+C:\Users\Admin\Desktop\Rosi\BackEnd\JsonParser\JsonParser\bin\Debug\net8.0\JsonParser.runtimeconfig.json
+C:\Users\Admin\Desktop\Rosi\BackEnd\JsonParser\JsonParser\bin\Debug\net8.0\JsonParser.dll
+C:\Users\Admin\Desktop\Rosi\BackEnd\JsonParser\JsonParser\bin\Debug\net8.0\JsonParser.pdb
+C:\Users\Admin\Desktop\Rosi\BackEnd\JsonParser\JsonParser\obj\Debug\net8.0\JsonParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Rosi\BackEnd\JsonParser\JsonParser\obj\Debug\net8.0\JsonParser.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Rosi\BackEnd\JsonParser\JsonParser\obj\Debug\net8.0\JsonParser.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Rosi\BackEnd\JsonParser\JsonParser\obj\Debug\net8.0\JsonParser.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Rosi\BackEnd\JsonParser\JsonParser\obj\Debug\net8.0\JsonParser.dll
+C:\Users\Admin\Desktop\Rosi\BackEnd\JsonParser\JsonParser\obj\Debug\net8.0\refint\JsonParser.dll
+C:\Users\Admin\Desktop\Rosi\BackEnd\JsonParser\JsonParser\obj\Debug\net8.0\JsonParser.pdb
+C:\Users\Admin\Desktop\Rosi\BackEnd\JsonParser\JsonParser\obj\Debug\net8.0\JsonParser.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Rosi\BackEnd\JsonParser\JsonParser\obj\Debug\net8.0\ref\JsonParser.dll
