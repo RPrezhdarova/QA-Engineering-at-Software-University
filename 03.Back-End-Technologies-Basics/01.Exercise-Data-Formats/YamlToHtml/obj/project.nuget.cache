@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bgtk4KP/bg30iMr42SGp+CN8TgWlfhOmFyN7tGEF/PIG9j21ONT+lu9UntFEiD2wAF0k1gJnZ+1UNDfP8GQUqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Rosi\\BackEnd\\YamlToHtml\\YamlToHtml\\YamlToHtml.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\yamldotnet\\13.7.1\\yamldotnet.13.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
