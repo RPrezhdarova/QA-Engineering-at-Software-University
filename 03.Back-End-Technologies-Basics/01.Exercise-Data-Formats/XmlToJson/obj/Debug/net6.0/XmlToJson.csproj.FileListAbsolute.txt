@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Rosi\BackEnd\XmlToJson\XmlToJson\bin\Debug\net6.0\XmlToJson.exe
+C:\Users\Admin\Desktop\Rosi\BackEnd\XmlToJson\XmlToJson\bin\Debug\net6.0\Datasets\Devices.xml
+C:\Users\Admin\Desktop\Rosi\BackEnd\XmlToJson\XmlToJson\bin\Debug\net6.0\Datasets\Vehicles.xml
+C:\Users\Admin\Desktop\Rosi\BackEnd\XmlToJson\XmlToJson\bin\Debug\net6.0\XmlToJson.deps.json
+C:\Users\Admin\Desktop\Rosi\BackEnd\XmlToJson\XmlToJson\bin\Debug\net6.0\XmlToJson.runtimeconfig.json
+C:\Users\Admin\Desktop\Rosi\BackEnd\XmlToJson\XmlToJson\bin\Debug\net6.0\XmlToJson.dll
+C:\Users\Admin\Desktop\Rosi\BackEnd\XmlToJson\XmlToJson\bin\Debug\net6.0\XmlToJson.pdb
+C:\Users\Admin\Desktop\Rosi\BackEnd\XmlToJson\XmlToJson\obj\Debug\net6.0\XmlToJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Rosi\BackEnd\XmlToJson\XmlToJson\obj\Debug\net6.0\XmlToJson.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Rosi\BackEnd\XmlToJson\XmlToJson\obj\Debug\net6.0\XmlToJson.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Rosi\BackEnd\XmlToJson\XmlToJson\obj\Debug\net6.0\XmlToJson.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Rosi\BackEnd\XmlToJson\XmlToJson\obj\Debug\net6.0\XmlToJson.dll
+C:\Users\Admin\Desktop\Rosi\BackEnd\XmlToJson\XmlToJson\obj\Debug\net6.0\refint\XmlToJson.dll
+C:\Users\Admin\Desktop\Rosi\BackEnd\XmlToJson\XmlToJson\obj\Debug\net6.0\XmlToJson.pdb
+C:\Users\Admin\Desktop\Rosi\BackEnd\XmlToJson\XmlToJson\obj\Debug\net6.0\XmlToJson.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Rosi\BackEnd\XmlToJson\XmlToJson\obj\Debug\net6.0\ref\XmlToJson.dll
