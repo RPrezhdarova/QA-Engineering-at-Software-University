@@ -1,0 +1,13 @@
+function printAndSum(input){
+    let startNumber=parseInt(input[0]);
+    let endNumber=parseInt(input[1]);
+    let sum=0;
+    let stringResult='';
+
+    for(let i=startNumber; i<=endNumber; i++){
+        sum+=i;
+        stringResult +=i +' ';
+    }
+    console.log(stringResult.trimEnd());
+    console.log(`Sum: ${sum}`);
+}
