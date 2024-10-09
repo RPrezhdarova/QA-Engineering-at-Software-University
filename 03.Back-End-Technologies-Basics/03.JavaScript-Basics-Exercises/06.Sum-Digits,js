@@ -1,0 +1,9 @@
+function sumDigits(number){
+    let digits= number.toString().split('');
+    let sumOfdigits=0;
+
+    for(let digit of digits){
+        sumOfdigits += Number(digit);
+    }
+    console.log(sumOfdigits);
+}
