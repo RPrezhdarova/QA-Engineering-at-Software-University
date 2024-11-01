@@ -8,7 +8,7 @@ The course provided a deeper understanding of programming, covering associative 
 A hands-on project was completed, involving the implementation and testing of an OOP application while applying best practices and popular methodologies. This experience reinforced practical skills through focused exercises.
 
 ### 03. Back-End Technologies Basics
-*Keywords: Data Formats (JSON, XML, YAML), JavaScript, Unit Testing, API, Postman, Newman, CLI*
+*_Keywords:_ Data Formats (JSON, XML, YAML), JavaScript, Unit Testing, API, Postman, Newman, CLI*
 
 Covering essential development tools, including data formats (JSON, YAML, XML), Docker for containerization, and API testing with Postman. Gained proficiency in JavaScript, unit testing, and automation with Newman, enhancing skills for modern software development.
 
