@@ -1,0 +1,16 @@
+{
+  "name": "03.movies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "03.Movies-Skeleton.js",
+  "type":"module",
+  "scripts": {
+    "test": "mocha test/movieServiceTests.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^10.8.2"
+  }
+}
