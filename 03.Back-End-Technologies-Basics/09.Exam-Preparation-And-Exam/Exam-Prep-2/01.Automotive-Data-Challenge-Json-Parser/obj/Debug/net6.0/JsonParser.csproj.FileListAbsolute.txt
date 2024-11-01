@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Rosi\back-End\exam-Prep-II\1.Zadacha\01.Automotive-Data-Challenge-Json-Parser\bin\Debug\net6.0\JsonParser.exe
+C:\Users\Admin\Desktop\Rosi\back-End\exam-Prep-II\1.Zadacha\01.Automotive-Data-Challenge-Json-Parser\bin\Debug\net6.0\Datasets\Cars.json
+C:\Users\Admin\Desktop\Rosi\back-End\exam-Prep-II\1.Zadacha\01.Automotive-Data-Challenge-Json-Parser\bin\Debug\net6.0\JsonParser.deps.json
+C:\Users\Admin\Desktop\Rosi\back-End\exam-Prep-II\1.Zadacha\01.Automotive-Data-Challenge-Json-Parser\bin\Debug\net6.0\JsonParser.runtimeconfig.json
+C:\Users\Admin\Desktop\Rosi\back-End\exam-Prep-II\1.Zadacha\01.Automotive-Data-Challenge-Json-Parser\bin\Debug\net6.0\JsonParser.dll
+C:\Users\Admin\Desktop\Rosi\back-End\exam-Prep-II\1.Zadacha\01.Automotive-Data-Challenge-Json-Parser\bin\Debug\net6.0\JsonParser.pdb
+C:\Users\Admin\Desktop\Rosi\back-End\exam-Prep-II\1.Zadacha\01.Automotive-Data-Challenge-Json-Parser\obj\Debug\net6.0\JsonParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Rosi\back-End\exam-Prep-II\1.Zadacha\01.Automotive-Data-Challenge-Json-Parser\obj\Debug\net6.0\JsonParser.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Rosi\back-End\exam-Prep-II\1.Zadacha\01.Automotive-Data-Challenge-Json-Parser\obj\Debug\net6.0\JsonParser.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Rosi\back-End\exam-Prep-II\1.Zadacha\01.Automotive-Data-Challenge-Json-Parser\obj\Debug\net6.0\JsonParser.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Rosi\back-End\exam-Prep-II\1.Zadacha\01.Automotive-Data-Challenge-Json-Parser\obj\Debug\net6.0\JsonParser.dll
+C:\Users\Admin\Desktop\Rosi\back-End\exam-Prep-II\1.Zadacha\01.Automotive-Data-Challenge-Json-Parser\obj\Debug\net6.0\refint\JsonParser.dll
+C:\Users\Admin\Desktop\Rosi\back-End\exam-Prep-II\1.Zadacha\01.Automotive-Data-Challenge-Json-Parser\obj\Debug\net6.0\JsonParser.pdb
+C:\Users\Admin\Desktop\Rosi\back-End\exam-Prep-II\1.Zadacha\01.Automotive-Data-Challenge-Json-Parser\obj\Debug\net6.0\JsonParser.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Rosi\back-End\exam-Prep-II\1.Zadacha\01.Automotive-Data-Challenge-Json-Parser\obj\Debug\net6.0\ref\JsonParser.dll
