@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\13-Resources-OOP-Principles-Encapsulation-Inheritance\Players\bin\Debug\net6.0\Players.deps.json
+C:\Users\Admin\source\repos\13-Resources-OOP-Principles-Encapsulation-Inheritance\Players\bin\Debug\net6.0\Players.dll
+C:\Users\Admin\source\repos\13-Resources-OOP-Principles-Encapsulation-Inheritance\Players\bin\Debug\net6.0\Players.pdb
+C:\Users\Admin\source\repos\13-Resources-OOP-Principles-Encapsulation-Inheritance\Players\obj\Debug\net6.0\Players.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\13-Resources-OOP-Principles-Encapsulation-Inheritance\Players\obj\Debug\net6.0\Players.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\13-Resources-OOP-Principles-Encapsulation-Inheritance\Players\obj\Debug\net6.0\Players.AssemblyInfo.cs
+C:\Users\Admin\source\repos\13-Resources-OOP-Principles-Encapsulation-Inheritance\Players\obj\Debug\net6.0\Players.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\13-Resources-OOP-Principles-Encapsulation-Inheritance\Players\obj\Debug\net6.0\Players.dll
+C:\Users\Admin\source\repos\13-Resources-OOP-Principles-Encapsulation-Inheritance\Players\obj\Debug\net6.0\refint\Players.dll
+C:\Users\Admin\source\repos\13-Resources-OOP-Principles-Encapsulation-Inheritance\Players\obj\Debug\net6.0\Players.pdb
+C:\Users\Admin\source\repos\13-Resources-OOP-Principles-Encapsulation-Inheritance\Players\obj\Debug\net6.0\ref\Players.dll
