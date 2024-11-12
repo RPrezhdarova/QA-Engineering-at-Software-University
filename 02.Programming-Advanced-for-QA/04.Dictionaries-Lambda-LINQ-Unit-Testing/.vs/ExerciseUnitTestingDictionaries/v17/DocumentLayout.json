@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\August2024AdvancedQA\\06-Resources-Unit-Testing-Exercise-Dictionaries\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\admin\\source\\repos\\august2024advancedqa\\06-resources-unit-testing-exercise-dictionaries\\testapp.tests\\countcharacterstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\countcharacterstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC08B6BA-3319-4057-BB71-A04546D789AB}|TestApp\\TestApp.csproj|c:\\users\\admin\\source\\repos\\august2024advancedqa\\06-resources-unit-testing-exercise-dictionaries\\testapp\\countcharacters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC08B6BA-3319-4057-BB71-A04546D789AB}|TestApp\\TestApp.csproj|solutionrelative:testapp\\countcharacters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\admin\\source\\repos\\august2024advancedqa\\06-resources-unit-testing-exercise-dictionaries\\testapp.tests\\plantstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\plantstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC08B6BA-3319-4057-BB71-A04546D789AB}|TestApp\\TestApp.csproj|c:\\users\\admin\\source\\repos\\august2024advancedqa\\06-resources-unit-testing-exercise-dictionaries\\testapp\\plants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC08B6BA-3319-4057-BB71-A04546D789AB}|TestApp\\TestApp.csproj|solutionrelative:testapp\\plants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountCharactersTests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\August2024AdvancedQA\\06-Resources-Unit-Testing-Exercise-Dictionaries\\TestApp.Tests\\CountCharactersTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\CountCharactersTests.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\August2024AdvancedQA\\06-Resources-Unit-Testing-Exercise-Dictionaries\\TestApp.Tests\\CountCharactersTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\CountCharactersTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:17:01.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountCharacters.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\August2024AdvancedQA\\06-Resources-Unit-Testing-Exercise-Dictionaries\\TestApp\\CountCharacters.cs",
+              "RelativeDocumentMoniker": "TestApp\\CountCharacters.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\August2024AdvancedQA\\06-Resources-Unit-Testing-Exercise-Dictionaries\\TestApp\\CountCharacters.cs",
+              "RelativeToolTip": "TestApp\\CountCharacters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:16:56.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Plants.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\August2024AdvancedQA\\06-Resources-Unit-Testing-Exercise-Dictionaries\\TestApp\\Plants.cs",
+              "RelativeDocumentMoniker": "TestApp\\Plants.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\August2024AdvancedQA\\06-Resources-Unit-Testing-Exercise-Dictionaries\\TestApp\\Plants.cs",
+              "RelativeToolTip": "TestApp\\Plants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T07:55:09.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlantsTests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\August2024AdvancedQA\\06-Resources-Unit-Testing-Exercise-Dictionaries\\TestApp.Tests\\PlantsTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\PlantsTests.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\August2024AdvancedQA\\06-Resources-Unit-Testing-Exercise-Dictionaries\\TestApp.Tests\\PlantsTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\PlantsTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T07:52:33.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
