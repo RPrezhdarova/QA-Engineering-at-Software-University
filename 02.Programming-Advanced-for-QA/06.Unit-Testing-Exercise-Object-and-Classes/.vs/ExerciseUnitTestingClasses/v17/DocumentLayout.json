@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\10-Resources-Unit-Testing-Exercise-Classes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\admin\\source\\repos\\10-resources-unit-testing-exercise-classes\\testapp.unittests\\articletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\articletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EEF27A-7821-446A-B339-144B4F177830}|TestApp\\TestApp.csproj|c:\\users\\admin\\source\\repos\\10-resources-unit-testing-exercise-classes\\testapp\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EEF27A-7821-446A-B339-144B4F177830}|TestApp\\TestApp.csproj|solutionrelative:testapp\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticleTests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp.UnitTests\\ArticleTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\ArticleTests.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp.UnitTests\\ArticleTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\ArticleTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:26:35.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp\\Article.cs",
+              "RelativeDocumentMoniker": "TestApp\\Article.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp\\Article.cs",
+              "RelativeToolTip": "TestApp\\Article.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAiwCsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:22:03.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
