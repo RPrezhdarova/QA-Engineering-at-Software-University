@@ -9,7 +9,9 @@ The course deepened knowledge of programming with topics like associative arrays
 ### 03. Back-End Technologies Basics
 *__Keywords:__ Data Formats (JSON, XML, YAML), JavaScript, Unit Testing, API, Postman, Newman, CLI*
 
-Covering essential development tools, including data formats, Docker for containerization, and API testing with Postman. Gained proficiency in JavaScript, unit testing, and automation with Newman, enhancing skills for modern software development.
+Covering essential development tools, including data formats, Docker for containerization, and API testing with Postman. Gained proficiency in JavaScript, unit testing, and automation with Newman, enhancing skills for modern software development
 
+### 04. Back-End Test Automation
+*__Keywords:__ API Testing (NUnit, RestSharp), CI/CD Pipeline, GitHub Actions, Jenkins, Performance Testing (k6, JMeter)
 
 
