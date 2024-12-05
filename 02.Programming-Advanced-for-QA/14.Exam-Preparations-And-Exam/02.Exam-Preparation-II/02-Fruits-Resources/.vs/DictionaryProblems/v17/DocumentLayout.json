@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Exam-Preparation-2-Resources (1)\\Exam-Preparation-2-Resources\\02-Fruits-Resources\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30ACFD80-A560-434F-B1F1-EB0308B1A281}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\admin\\source\\repos\\exam-preparation-2-resources (1)\\exam-preparation-2-resources\\02-fruits-resources\\testapp.tests\\fruitstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ACFD80-A560-434F-B1F1-EB0308B1A281}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\fruitstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C52EFD2-41BD-4401-A054-CD1E7921029D}|TestApp\\TestApp.csproj|c:\\users\\admin\\source\\repos\\exam-preparation-2-resources (1)\\exam-preparation-2-resources\\02-fruits-resources\\testapp\\fruits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C52EFD2-41BD-4401-A054-CD1E7921029D}|TestApp\\TestApp.csproj|solutionrelative:testapp\\fruits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FruitsTests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Exam-Preparation-2-Resources (1)\\Exam-Preparation-2-Resources\\02-Fruits-Resources\\TestApp.Tests\\FruitsTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\FruitsTests.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Exam-Preparation-2-Resources (1)\\Exam-Preparation-2-Resources\\02-Fruits-Resources\\TestApp.Tests\\FruitsTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\FruitsTests.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAcwFoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:17:26.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fruits.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Exam-Preparation-2-Resources (1)\\Exam-Preparation-2-Resources\\02-Fruits-Resources\\TestApp\\Fruits.cs",
+              "RelativeDocumentMoniker": "TestApp\\Fruits.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Exam-Preparation-2-Resources (1)\\Exam-Preparation-2-Resources\\02-Fruits-Resources\\TestApp\\Fruits.cs",
+              "RelativeToolTip": "TestApp\\Fruits.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:16:26.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
