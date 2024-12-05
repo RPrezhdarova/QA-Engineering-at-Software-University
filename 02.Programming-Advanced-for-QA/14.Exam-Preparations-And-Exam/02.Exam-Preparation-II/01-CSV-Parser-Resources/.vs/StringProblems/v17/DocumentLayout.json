@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\August2024AdvancedQA\\Exam-Preparation-2-Resources (1)\\Exam-Preparation-2-Resources\\01-CSV-Parser-Resources\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7856FA4-DBFC-41D7-BADF-9FFE197AB63B}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\admin\\source\\repos\\august2024advancedqa\\exam-preparation-2-resources (1)\\exam-preparation-2-resources\\01-csv-parser-resources\\testapp.tests\\csvparsertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7856FA4-DBFC-41D7-BADF-9FFE197AB63B}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\csvparsertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF689EA3-F0FC-4DB7-8146-AF105625141B}|TestApp\\TestApp.csproj|c:\\users\\admin\\source\\repos\\august2024advancedqa\\exam-preparation-2-resources (1)\\exam-preparation-2-resources\\01-csv-parser-resources\\testapp\\csvparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF689EA3-F0FC-4DB7-8146-AF105625141B}|TestApp\\TestApp.csproj|solutionrelative:testapp\\csvparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CsvParserTests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\August2024AdvancedQA\\Exam-Preparation-2-Resources (1)\\Exam-Preparation-2-Resources\\01-CSV-Parser-Resources\\TestApp.Tests\\CsvParserTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\CsvParserTests.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\August2024AdvancedQA\\Exam-Preparation-2-Resources (1)\\Exam-Preparation-2-Resources\\01-CSV-Parser-Resources\\TestApp.Tests\\CsvParserTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\CsvParserTests.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAIwDkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:07:09.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CsvParser.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\August2024AdvancedQA\\Exam-Preparation-2-Resources (1)\\Exam-Preparation-2-Resources\\01-CSV-Parser-Resources\\TestApp\\CsvParser.cs",
+              "RelativeDocumentMoniker": "TestApp\\CsvParser.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\August2024AdvancedQA\\Exam-Preparation-2-Resources (1)\\Exam-Preparation-2-Resources\\01-CSV-Parser-Resources\\TestApp\\CsvParser.cs",
+              "RelativeToolTip": "TestApp\\CsvParser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:06:23.037Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
