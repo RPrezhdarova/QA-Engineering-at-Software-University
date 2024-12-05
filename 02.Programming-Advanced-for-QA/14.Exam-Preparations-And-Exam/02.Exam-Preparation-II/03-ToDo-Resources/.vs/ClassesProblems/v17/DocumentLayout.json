@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Exam-Preparation-2-Resources (1)\\Exam-Preparation-2-Resources\\03-ToDo-Resources\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65311F7D-0C84-47A1-A13D-7221E4D11B42}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\admin\\source\\repos\\exam-preparation-2-resources (1)\\exam-preparation-2-resources\\03-todo-resources\\testapp.tests\\todolisttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65311F7D-0C84-47A1-A13D-7221E4D11B42}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\todolisttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3513F78E-4EF9-4BFE-BB98-16106F556700}|TestApp\\TestApp.csproj|c:\\users\\admin\\source\\repos\\exam-preparation-2-resources (1)\\exam-preparation-2-resources\\03-todo-resources\\testapp\\todo\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3513F78E-4EF9-4BFE-BB98-16106F556700}|TestApp\\TestApp.csproj|solutionrelative:testapp\\todo\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3513F78E-4EF9-4BFE-BB98-16106F556700}|TestApp\\TestApp.csproj|c:\\users\\admin\\source\\repos\\exam-preparation-2-resources (1)\\exam-preparation-2-resources\\03-todo-resources\\testapp\\todo\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3513F78E-4EF9-4BFE-BB98-16106F556700}|TestApp\\TestApp.csproj|solutionrelative:testapp\\todo\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToDoList.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Exam-Preparation-2-Resources (1)\\Exam-Preparation-2-Resources\\03-ToDo-Resources\\TestApp\\Todo\\ToDoList.cs",
+              "RelativeDocumentMoniker": "TestApp\\Todo\\ToDoList.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Exam-Preparation-2-Resources (1)\\Exam-Preparation-2-Resources\\03-ToDo-Resources\\TestApp\\Todo\\ToDoList.cs",
+              "RelativeToolTip": "TestApp\\Todo\\ToDoList.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:33:57.558Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Exam-Preparation-2-Resources (1)\\Exam-Preparation-2-Resources\\03-ToDo-Resources\\TestApp\\Todo\\TaskItem.cs",
+              "RelativeDocumentMoniker": "TestApp\\Todo\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Exam-Preparation-2-Resources (1)\\Exam-Preparation-2-Resources\\03-ToDo-Resources\\TestApp\\Todo\\TaskItem.cs",
+              "RelativeToolTip": "TestApp\\Todo\\TaskItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:33:36.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToDoListTests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Exam-Preparation-2-Resources (1)\\Exam-Preparation-2-Resources\\03-ToDo-Resources\\TestApp.Tests\\ToDoListTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\ToDoListTests.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Exam-Preparation-2-Resources (1)\\Exam-Preparation-2-Resources\\03-ToDo-Resources\\TestApp.Tests\\ToDoListTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\ToDoListTests.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwDsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:35:57.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
