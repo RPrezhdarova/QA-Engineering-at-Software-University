@@ -16,6 +16,6 @@ Deepened programming knowledge through topics such as associative arrays, lambda
 Covering essential development tools, including data formats, Docker for containerization, and API testing with Postman. Gained proficiency in JavaScript, unit testing, and automation with Newman, enhancing skills for modern software development
 
 ### 04. Back-End Test Automation
-*__Keywords:__ API Testing (NUnit, RestSharp), CI/CD Pipeline, GitHub Actions, Jenkins, Performance Testing (k6, JMeter)*
+*__Keywords:__ API Testing (NUnit, RestSharp), CI/CD Pipeline, GitHub Actions, Jenkins, Docker, Performance Testing (k6, JMeter)*
 
 Covered modern concepts and technologies for web application testing, including the fundamentals of performance and stress testing using tools such as JMeter, BlazeMeter, K6, and Loader.io. The course also included API testing with C# using NUnit and RestSharp, as well as JSON file serialization and deserialization. Practical exercises and workshops provided hands-on skills in executing performance, stress, and API testing, as well as initiating and managing testing projects.
