@@ -1,4 +1,4 @@
-﻿using DemoNunitTest.Models;
+using DemoNunitTest.Models;
 using Newtonsoft.Json;
 using RestSharp;
 using System;
