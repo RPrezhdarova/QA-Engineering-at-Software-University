@@ -1,0 +1,19 @@
+body{
+    border:2px solid gray;
+    
+}
+.container{
+    border: 2px solid green;
+    margin-bottom: 4em;
+}
+.content-wrapper{
+    border: 2px solid blue;
+    margin: 2em 8em;
+}
+
+.content-wrapper > * {
+    border: 2px solid black;
+    text-align: center;
+    padding: 30px 0;
+    margin: 2em;
+}

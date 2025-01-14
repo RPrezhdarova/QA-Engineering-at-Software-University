@@ -1,0 +1,17 @@
+
+.container{
+    border: 2px solid green;
+    margin-bottom: 4em;
+}
+
+.header, .main, .article {
+    border: 2px solid black;    
+    margin: 2em;
+}
+
+header, main, article {
+    border: 2px solid blue;
+    text-align: left;
+    padding: 30px 20px;
+    margin: 2em 6em;
+}
