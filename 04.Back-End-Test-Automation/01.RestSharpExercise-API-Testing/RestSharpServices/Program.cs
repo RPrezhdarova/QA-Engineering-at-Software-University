@@ -1,4 +1,4 @@
-﻿namespace RestSharpServices
+namespace RestSharpServices
 {
     internal class Program
     {
