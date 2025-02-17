@@ -1,0 +1,83 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HouseRentingSystem.Web
+build_property.RootNamespace = HouseRentingSystem.Web
+build_property.ProjectDir = C:\Users\Admin\Desktop\Rosi\Back-End-TestAutomation\04.Exercise-Continuous-Integration-Resources\02-House-Renting-System-App-old\HouseRentingSystem.Web\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Admin\Desktop\Rosi\Back-End-TestAutomation\04.Exercise-Continuous-Integration-Resources\02-House-Renting-System-App-old\HouseRentingSystem.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Admin/Desktop/Rosi/Back-End-TestAutomation/04.Exercise-Continuous-Integration-Resources/02-House-Renting-System-App-old/HouseRentingSystem.Web/Views/Agents/Become.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbnRzXEJlY29tZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/Rosi/Back-End-TestAutomation/04.Exercise-Continuous-Integration-Resources/02-House-Renting-System-App-old/HouseRentingSystem.Web/Views/Home/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/Rosi/Back-End-TestAutomation/04.Exercise-Continuous-Integration-Resources/02-House-Renting-System-App-old/HouseRentingSystem.Web/Views/Home/Error400.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFcnJvcjQwMC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/Rosi/Back-End-TestAutomation/04.Exercise-Continuous-Integration-Resources/02-House-Renting-System-App-old/HouseRentingSystem.Web/Views/Home/Error401.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFcnJvcjQwMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/Rosi/Back-End-TestAutomation/04.Exercise-Continuous-Integration-Resources/02-House-Renting-System-App-old/HouseRentingSystem.Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/Rosi/Back-End-TestAutomation/04.Exercise-Continuous-Integration-Resources/02-House-Renting-System-App-old/HouseRentingSystem.Web/Views/Houses/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG91c2VzXEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/Rosi/Back-End-TestAutomation/04.Exercise-Continuous-Integration-Resources/02-House-Renting-System-App-old/HouseRentingSystem.Web/Views/Houses/All.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG91c2VzXEFsbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/Rosi/Back-End-TestAutomation/04.Exercise-Continuous-Integration-Resources/02-House-Renting-System-App-old/HouseRentingSystem.Web/Views/Houses/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG91c2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/Rosi/Back-End-TestAutomation/04.Exercise-Continuous-Integration-Resources/02-House-Renting-System-App-old/HouseRentingSystem.Web/Views/Houses/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG91c2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/Rosi/Back-End-TestAutomation/04.Exercise-Continuous-Integration-Resources/02-House-Renting-System-App-old/HouseRentingSystem.Web/Views/Houses/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG91c2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/Rosi/Back-End-TestAutomation/04.Exercise-Continuous-Integration-Resources/02-House-Renting-System-App-old/HouseRentingSystem.Web/Views/Houses/Mine.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG91c2VzXE1pbmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/Rosi/Back-End-TestAutomation/04.Exercise-Continuous-Integration-Resources/02-House-Renting-System-App-old/HouseRentingSystem.Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/Rosi/Back-End-TestAutomation/04.Exercise-Continuous-Integration-Resources/02-House-Renting-System-App-old/HouseRentingSystem.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/Rosi/Back-End-TestAutomation/04.Exercise-Continuous-Integration-Resources/02-House-Renting-System-App-old/HouseRentingSystem.Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
