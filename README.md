@@ -19,3 +19,12 @@ Covering essential development tools, including data formats, Docker for contain
 *__Keywords:__ API Testing (NUnit, RestSharp), CI/CD Pipeline, GitHub Actions, Jenkins, Docker, Performance Testing (k6, JMeter)*
 
 Covered modern concepts and technologies for web application testing, including the fundamentals of performance and stress testing using tools such as JMeter, BlazeMeter, K6, and Loader.io. The course also included API testing with C# using NUnit and RestSharp, as well as JSON file serialization and deserialization. Practical exercises and workshops provided hands-on skills in executing performance, stress, and API testing, as well as initiating and managing testing projects.
+
+### 05.Front-End Technologies Basics
+*__Keywords:__ HTML, CSS, JavaScript, DOM, event handling, Playwright, Security testing*
+
+The course focuses on key front-end technologies, including HTML, CSS, JavaScript (with a focus on asynchronous functions and DOM manipulation). It covers automated testing using Playwright and provides an introduction to basic security testing.
+
+### 06.Front-End Test Automation
+*__Keywords:__ Selenium IDE, Selenium WebDriver, Appium*
+The course provides a solid foundation in front-end test automation, offering hands-on experience with popular tools like Selenium IDE, Selenium WebDriver, and Appium. It also covers the underlying architecture of test automation systems.
