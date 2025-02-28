@@ -11,7 +11,7 @@ Experienced with variables, operators, expressions, and console operations. Appl
 Deepened programming knowledge through topics such as associative arrays, lambda expressions, LINQ, regular expressions, and core OOP concepts (classes, inheritance, interfaces). The course also covered advanced topics, including static members, generics, and exception handling. A hands-on project involved building and testing an OOP application, reinforcing skills through practical exercises and best practices.
 
 ### 03. Back-End Technologies Basics
-*__Keywords:__ Data Formats (JSON, XML, YAML), JavaScript, Unit Testing, API, Postman, Newman, CLI*
+*__Keywords:__ Data Formats (JSON, XML, YAML), JavaScript, Unit Testing, API, Postman, Newman*
 
 Covering essential development tools, including data formats, Docker for containerization, and API testing with Postman. Gained proficiency in JavaScript, unit testing, and automation with Newman, enhancing skills for modern software development
 
