@@ -27,7 +27,7 @@ This folder includes:
 
 ---
 
-## Certificate of Completion
+## 📜 Certificate of Completion
 
 ![SoftUni Certificate Page 1](https://github.com/user-attachments/assets/1f2570dc-cb33-41a2-a83e-0f26a63e5de4)
 ![SoftUni Certificate Page 2](https://github.com/user-attachments/assets/704a8101-ac8e-4005-a129-9184b1264279)
