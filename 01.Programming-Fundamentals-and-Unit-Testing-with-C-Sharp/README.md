@@ -1,6 +1,6 @@
 # 🧪 Module 01: Programming Fundamentals and Unit Testing (C#)
 
-This folder contains my homework and exercises from the **Programming Fundamentals and Unit Testing** module, part of the **Professional QA Engineering Program at SoftUni**.
+This folder contains my **homework assignments** and practice exercises for the **Programming Fundamentals and Unit Testing** module, part of the **Professional QA Engineering Program at SoftUni**.
 
 ---
 
