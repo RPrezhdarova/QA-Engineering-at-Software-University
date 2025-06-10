@@ -54,3 +54,14 @@ Established a strong foundation in front-end test automation.
 ✅ Mobile testing basics using Appium.  
 ✅ Learned test automation architecture.
 
+---
+
+## 📜 Diploma
+
+Successfully completed the **Professional QA Engineering Program** at SoftUni, covering end-to-end QA automation, programming, and testing technologies.
+
+![SoftUni Diploma Page 1](https://github.com/user-attachments/assets/2223777b-59e7-4c30-83f3-5e6d1c7547ec)
+![SoftUni Diploma Page 2](https://github.com/user-attachments/assets/7cc604d9-a103-407c-a466-10f9953ca7b7)
+![SoftUni Diploma Page 3](https://github.com/user-attachments/assets/8ef9ba35-5ee6-44f6-be2c-29b393957b64)
+
+> *Official diploma awarded by SoftUni upon successful completion of the full QA Automation Program.*
