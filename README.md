@@ -1,30 +1,56 @@
-Homework exercises for the following modules of the Professional QA Engineering Program at SoftUni:
+# 🧪 QA Automation Homework
 
-### 01. Programming Fundamentals and Unit Testing
-*__Keywords:__ While and For Loop, For-each Loop, Methods, List, Arrays, Unit Testing, NUnit*
+Homework exercises for the following modules of the **Professional QA Engineering Program at SoftUni**:
 
-Experienced with variables, operators, expressions, and console operations. Applied conditional statements and loops for program control. Conducted component testing for software quality assurance. Covered fundamental programming structures (arrays, lists, objects). Completed practical project: created and tested a console game.
+---
 
-### 02. Programming Advanced for QA
-*__Keywords:__ Dictionaries, Lambda, LINQ, Objects, Classes, Exceptions, OOP Principles, Unit Testing*
+### 01. Programming Fundamentals and Unit Testing  
+**Keywords:** While and For Loop, For-each Loop, Methods, List, Arrays, Unit Testing, NUnit  
 
-Deepened programming knowledge through topics such as associative arrays, lambda expressions, LINQ, regular expressions, and core OOP concepts (classes, inheritance, interfaces). The course also covered advanced topics, including static members, generics, and exception handling. A hands-on project involved building and testing an OOP application, reinforcing skills through practical exercises and best practices.
+Experienced with variables, operators, expressions, and console operations. Applied conditional statements and loops for program control. Conducted component testing for software quality assurance. Covered fundamental programming structures (arrays, lists, objects).  
+✅ *Completed practical project:* Created and tested a console game.
 
-### 03. Back-End Technologies Basics
-*__Keywords:__ Data Formats (JSON, XML, YAML), JavaScript, Unit Testing, API, Postman, Newman*
+---
 
-Covering essential development tools, including data formats, Docker for containerization, and API testing with Postman. Gained proficiency in JavaScript, unit testing, and automation with Newman, enhancing skills for modern software development
+### 02. Programming Advanced for QA  
+**Keywords:** Dictionaries, Lambda, LINQ, Objects, Classes, Exceptions, OOP Principles, Unit Testing  
 
-### 04. Back-End Test Automation
-*__Keywords:__ API Testing (NUnit, RestSharp), CI/CD Pipeline, GitHub Actions, Jenkins, Docker, Performance Testing (k6, JMeter)*
+Deepened programming knowledge through topics such as associative arrays, lambda expressions, LINQ, regular expressions, and core OOP concepts (classes, inheritance, interfaces). Also covered advanced topics including static members, generics, and exception handling.  
+✅ *Project:* Built and tested an OOP-based application.
 
-Covered modern concepts and technologies for web application testing, including the fundamentals of performance and stress testing using tools such as JMeter, BlazeMeter, K6, and Loader.io. The course also included API testing with C# using NUnit and RestSharp, as well as JSON file serialization and deserialization. Practical exercises and workshops provided hands-on skills in executing performance, stress, and API testing, as well as initiating and managing testing projects.
+---
 
-### 05.Front-End Technologies Basics
-*__Keywords:__ HTML, CSS, JavaScript, DOM, event handling, Playwright, Security testing*
+### 03. Back-End Technologies Basics  
+**Keywords:** Data Formats (JSON, XML, YAML), JavaScript, Unit Testing, API, Postman, Newman  
 
-The course focuses on key front-end technologies, including HTML, CSS, JavaScript (with a focus on asynchronous functions and DOM manipulation). It covers automated testing using Playwright and provides an introduction to basic security testing.
+Covered essential development tools and formats. Gained hands-on experience with Docker for containerization and API testing using Postman and Newman.  
+✅ Strengthened JavaScript and automation skills for back-end development.
 
-### 06.Front-End Test Automation
-*__Keywords:__ Selenium IDE, Selenium WebDriver, Appium*
-The course provides a solid foundation in front-end test automation, offering hands-on experience with popular tools like Selenium IDE, Selenium WebDriver, and Appium. It also covers the underlying architecture of test automation systems.
+---
+
+### 04. Back-End Test Automation  
+**Keywords:** API Testing (NUnit, RestSharp), CI/CD Pipeline, GitHub Actions, Jenkins, Docker, Performance Testing (k6, JMeter)  
+
+Learned modern web application testing techniques. Performed performance and stress testing using JMeter, BlazeMeter, K6, and Loader.io.  
+✅ Hands-on API testing with C# (NUnit + RestSharp) and JSON handling.  
+✅ Practical experience with CI/CD pipelines using GitHub Actions and Jenkins.
+
+---
+
+### 05. Front-End Technologies Basics  
+**Keywords:** HTML, CSS, JavaScript, DOM, Event Handling, Playwright, Security Testing  
+
+Focused on key front-end technologies and asynchronous JavaScript. Learned DOM manipulation and event handling.  
+✅ Automated tests using Playwright.  
+✅ Introduction to web application security testing.
+
+---
+
+### 06. Front-End Test Automation  
+**Keywords:** Selenium IDE, Selenium WebDriver, Appium  
+
+Established a strong foundation in front-end test automation.  
+✅ Gained hands-on experience with Selenium IDE and WebDriver.  
+✅ Mobile testing basics using Appium.  
+✅ Learned test automation architecture.
+
