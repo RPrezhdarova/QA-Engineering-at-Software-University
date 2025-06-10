@@ -34,3 +34,5 @@ This folder includes:
 ![SoftUni Certificate Page 2](https://github.com/user-attachments/assets/0c496294-5356-4ec3-8e65-2864fbcdde0d)
 
 > *Official certificate issued by SoftUni upon successful completion of the module.*
+
+🔙 [Back to main repository](../README.md)
